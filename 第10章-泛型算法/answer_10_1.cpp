@@ -9,6 +9,7 @@ using namespace std;
 int main()
 {
 
+    //测试count函数
     vector<int> a = {1, 1, 1, 3, 2, 3, 2};
     std::cout << count(a.cbegin(), a.cend(), 3) << std::endl;
 
