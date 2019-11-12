@@ -1,3 +1,7 @@
+/**************************************************/
+C++ Primer 5th edition: P345
+/**************************************************/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
